@@ -33,7 +33,8 @@
 
 ![image](https://github.com/user-attachments/assets/e4ac92cf-d206-4246-9abd-2016e12c0cf2)
 
-
+CLICKING BESIDE THE TABLE NAME 
+![image](https://github.com/user-attachments/assets/266bca68-75ac-4340-9cc3-46b090890249)
 
 
 
