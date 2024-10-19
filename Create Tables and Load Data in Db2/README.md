@@ -57,6 +57,9 @@ CREATING ANOTHER TABLE
 I SAVE THE SQL ON THE CLOUD FOR ROLLBACK
 
 
+![image](https://github.com/user-attachments/assets/6c08106f-5851-4af2-9f7d-9bea965bbb8f)
+
+
 
 
 
