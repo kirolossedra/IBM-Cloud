@@ -51,6 +51,13 @@ some how load data option is not working so I inputted the fields using SQL
 
 
 
+CREATING ANOTHER TABLE 
+![image](https://github.com/user-attachments/assets/c7ed0231-7a45-471b-b4a5-ac770757c205)
+
+I SAVE THE SQL ON THE CLOUD FOR ROLLBACK
+
+
+
 
 
 
