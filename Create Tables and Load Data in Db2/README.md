@@ -46,6 +46,11 @@ some how load data option is not working so I inputted the fields using SQL
 
 
 
+![image](https://github.com/user-attachments/assets/6acb0522-102e-4866-87e0-208d3c1180de)
+
+
+
+
 
 
 
