@@ -42,8 +42,8 @@ CLICKING BESIDE THE TABLE NAME
 
 some how load data option is not working so I inputted the fields using SQL
 
+![image](https://github.com/user-attachments/assets/946c1c8a-adfb-4cfc-96f7-b79a7592d41b)
 
-![image](https://github.com/user-attachments/assets/4f47407a-c477-4169-a8a6-f276516a5440)
 
 
 
